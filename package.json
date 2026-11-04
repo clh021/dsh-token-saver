@@ -70,7 +70,7 @@
 "peerDependencies": {
     "@deepseek-ai/cordis": ">=3.0.0 <6.0.0-0 || >=4.0.1-rc.1 <5.0.0-0",
     "@deepseek-ai/schemastery": ">=3.0.0 <4.0.0-0 || >=3.18.1-rc.1 <4.0.0-0",
-    "@deepseek-ai/dsh-compaction": ">=0.0.1-rc.1 <0.1.0 || >=0.0.1-rc.1 <0.2.0-0"
+    "@deepseek-ai/dsh-compaction": ">=0.0.1-rc.1 <0.1.0 || >=0.0.1-rc.1 <0.2.0-0 || >=0.2.0-rc.1 <0.3.0-0"
   },
   "peerDependenciesMeta": {
     "@deepseek-ai/cordis": {
